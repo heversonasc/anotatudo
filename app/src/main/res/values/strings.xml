@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Anotatudo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="boas_vindas">Todas as suas notas,</string>
+    <string name="boas_vindas2">em um só lugar</string>
+    <string name="boas_vindas3">clique abaixo para começar e nunca mais perder</string>
+    <string name="boas_vindas4">suas anotações preferidas.</string>
+</resources>
